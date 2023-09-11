@@ -1,9 +1,9 @@
-# vscode-jest-snippets
+# vscode-bun-test-runner-snippets
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/andys8.jest-snippets?label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=andys8.jest-snippets)
 [![Node CI](https://github.com/andys8/vscode-jest-snippets/actions/workflows/test.yaml/badge.svg)](https://github.com/andys8/vscode-jest-snippets/actions/workflows/test.yaml)
 
-[Jest](https://facebook.github.io/jest) snippets extension for [Visual Studio Code](https://code.visualstudio.com/).
+[Bun Test Runner](https://github.com/oven-sh/bun) snippets extension for [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Snippets
 
@@ -96,9 +96,3 @@ The `editor.snippetSuggestions` setting in vscode `settings.json` will show snip
 ```json
 "editor.snippetSuggestions": "top"
 ```
-
-## Credits
-
-- Thanks to [xabikos](https://github.com/xabikos) for [vscode-jasmine](https://github.com/xabikos/vscode-jasmine)
-- Thanks to [martinlechner1](https://github.com/martinlechner1) for initial contributions
-- Thanks to all [contributors](https://github.com/andys8/vscode-jest-snippets/graphs/contributors)
